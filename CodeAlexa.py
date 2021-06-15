@@ -26,7 +26,7 @@ from email.mime.multipart import MIMEMultipart
 def send_email():
     smtp_server = "smtp.gmail.com"
     my_sender_email = 'jhomarcristianelias@gmail.com' 
-    password = 'jhomarcristianelias2021'
+    password = '########'
     destino_email = "jhomar.astuyauri@ieee.org"
 
     Subject = "Cita - Jhomar Astuyauri - Emergencia"
