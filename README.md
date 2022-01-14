@@ -27,7 +27,7 @@ Deploy from Alexa Developer Console -> python CodeAlexa.py
 ```
 
 ## List of technologies used and links with more information
-- [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask).
+- [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask)
 - [Amazon Web Service](https://aws.amazon.com/)
 - [Python](https://www.python.org/) 
 - [Arduino](https://www.arduino.cc/)
