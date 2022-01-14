@@ -1,4 +1,4 @@
-# KaliTeamUNI
+# Kali, Artificial Intelligence
 Voice assistant at scale, integrated with an Artificial Intelligence, that provides truthful information on prevention and health promotion in the context of the COVID-19 pandemic.
 
 ## Pre-requirements
