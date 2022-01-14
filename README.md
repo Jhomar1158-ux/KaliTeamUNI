@@ -29,7 +29,7 @@ cd KaliTeamUNI
 ```
 Deploy from Alexa Developer Console -> python CodeAlexa.py 
 ```
-<img src="https://media.giphy.com/media/9pXJeo9aYzltjvmtuh/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/9pXJeo9aYzltjvmtuh/giphy.gif" />
 Watch all of the Demo: https://drive.google.com/file/d/1lrUX7GtUxWkhnQiPS24IYlNxrHzVTrGp/view?usp=sharing
 
 **How to use**
