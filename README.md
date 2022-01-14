@@ -1,7 +1,7 @@
 # Kali, Artificial Intelligence
 Voice assistant at scale, integrated with an Artificial Intelligence, that provides truthful information on prevention and health promotion in the context of the COVID-19 pandemic.
 
-## Pre-requirements
+## Pre-requirements - Software
 
 You need to install:
 - **[Git](https://git-scm.com/downloads)** (Include Git Bash)
@@ -12,6 +12,10 @@ You need to register:
 - **[Alexa Developer Console](https://developer.amazon.com/alexa/console/ask)**
 
 Knowledge of: **Python**, **Amazon Web Service** and **Alexa Developer Console**.
+
+## Pre-requirements - Hardware
+
+[![16.png](https://i.postimg.cc/pd62jGsw/16.png)](https://postimg.cc/Mc122D25)
 
 ## Installation
 **Clone the Repository**
@@ -25,6 +29,10 @@ cd KaliTeamUNI
 ```
 Deploy from Alexa Developer Console -> python CodeAlexa.py 
 ```
+**How to use**
+[![13.png](https://i.postimg.cc/5291RdTc/13.png)](https://postimg.cc/F762YqhG)
+
+
 
 ## List of technologies used and links with more information
 - [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask)
